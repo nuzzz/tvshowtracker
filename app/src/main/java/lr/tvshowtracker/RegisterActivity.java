@@ -33,10 +33,10 @@ public class RegisterActivity extends AppCompatActivity{
     }
 
     private void initializeUI() {
-        errorText = (EditText) findViewById(R.id.username);
-        username = (EditText) findViewById(R.id.username);
-        password = (EditText) findViewById(R.id.password1);
-        password2 = (EditText) findViewById(R.id.password2);
+//        errorText = (EditText) findViewById(R.id.username);
+//        username = (EditText) findViewById(R.id.username);
+//        password = (EditText) findViewById(R.id.password1);
+//        password2 = (EditText) findViewById(R.id.password2);
     }
 
 
